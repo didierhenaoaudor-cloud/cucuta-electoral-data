@@ -1,1 +1,63 @@
-{{ JSON.stringify($json, null, 2) }}
+{
+  "Cúcuta": {
+    "ganador": "JORGE ENRIQUE ACEVEDO PEÑALOZA",
+    "candidatos": [
+      {
+        "nombre": "JORGE ENRIQUE ACEVEDO PEÑALOZA",
+        "votos": 89753
+      },
+      {
+        "nombre": "JOSE LEONARDO JACOME CARRASCAL",
+        "votos": 87424
+      },
+      {
+        "nombre": "JUAN CARLOS GARCIA HERREROS CABRERA",
+        "votos": 44292
+      },
+      {
+        "nombre": "MARIO VICENTE FIGUEROA FERNANDEZ",
+        "votos": 15856
+      },
+      {
+        "nombre": "EMERSON MENESES GONZALEZ",
+        "votos": 12796
+      },
+      {
+        "nombre": "SERGIO ANDRES MALDONADO HUERTAS",
+        "votos": 11926
+      },
+      {
+        "nombre": "DAVID EDUARDO FAJARDO GRANADOS",
+        "votos": 9301
+      },
+      {
+        "nombre": "CARLOS HUMBERTO COTE MENDOZA",
+        "votos": 6144
+      },
+      {
+        "nombre": "JOSE LUIS MORA CASTRO",
+        "votos": 5790
+      },
+      {
+        "nombre": "JONATHAN ISAAC GARCIA PABON",
+        "votos": 5387
+      },
+      {
+        "nombre": "CARLOS ALBERTO JAIMES FERNANDEZ",
+        "votos": 3388
+      },
+      {
+        "nombre": "BLANCA CRUZ GONZALEZ",
+        "votos": 2382
+      },
+      {
+        "nombre": "CARLOS MARTIN ROJAS CARVAJAL",
+        "votos": 1521
+      },
+      {
+        "nombre": "FELIX ADOLFO MUÑOZ LUNA",
+        "votos": 1365
+      }
+    ]
+  }
+}
